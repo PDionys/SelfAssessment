@@ -13,12 +13,12 @@
   - procedure  🎓 known
   - method 🖐️ used
   - class 🖐️ used
-  - prototype 👂 heard
+  - prototype 🎓 known
   - event 🎓 known
   - type 🖐️ used
   - primitive types 🖐️ used
   - reference types 🎓 known
-  - flag 🎓 known
+  - flag 👂 heard
   - lexical scope 🖐️ used
   - code block 👂 heard
   - conditions 🖐️ used
@@ -101,6 +101,6 @@
   - duplicate code 🖐️ used
   - exception 🖐️ used
   - return early 👂 heard
-  - unittest 🎓 known
+  - unittest 👂 heard
   - git 
   - github 🖐️ used
