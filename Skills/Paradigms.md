@@ -12,10 +12,10 @@
   - Generic programming: ~
   - Concurrent computing: ~
   - Asyncronous programming: ~
-  - Parallel programming: +
+  - Parallel programming: *
   - Reactive programming: ~
   - FRP (Functional-reactive): ~
-  - Automata-based programming: ~
+  - Automata-based programming: +
   - Domain-specific languages: ~
   - Multi-paradigm programming: ~
   - Metaprogramming: ~
@@ -33,8 +33,8 @@
   - Inheritance: *
   - Parent class: *
   - Polymorphism: +
-  - Abstract class: +
-  - Interface: +
+  - Abstract class: *
+  - Interface: *
   - Encapsulation: +
   - Hidden class: +
   - Object form: +
@@ -42,15 +42,15 @@
   - Introspection: ~
   - Reflection: ~
 - Patterns
-  - Singleton: +
+  - Singleton: *
   - Factory Method: +
   - Abstract Factory: +
   - Adapter: +
   - Observer: +
   - Strategy: ~
-  - Facade: ~
-  - Proxy: ~
-  - Chain of Responsibility: ~
+  - Facade: *
+  - Proxy: *
+  - Chain of Responsibility: +
   - Command: ~
   - Iterator: ~
   - State: *

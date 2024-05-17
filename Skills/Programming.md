@@ -14,7 +14,7 @@
   - method: *
   - class: *
   - prototype: +
-  - event: +
+  - event: *
   - type: +
   - primitive types: *
   - reference types: *
@@ -23,9 +23,9 @@
   - code block: ~
   - conditions: *
   - loops: *
-  - assignment: ~
+  - assignment: +
   - regular expression: *
-  - interface: +
+  - interface: *
   - contract: ~
   - module: ~
   - call stack: ~
@@ -33,7 +33,7 @@
   - signature: *
   - argument: *
   - parameter: *
-  - pure function: +
+  - pure function: *
   - lambda expression: *
   - side effects: ~
   - closure: ~
@@ -71,7 +71,7 @@
   - stack: *
   - deque: ~
   - tree: *
-  - graph: +
+  - graph: *
   - iterator: ~
   - mutable state: +
   - immutable state: +
@@ -85,7 +85,7 @@
   - debugger: *
   - garbage collection: +
   - refactoring: ~
-  - code review: ~
+  - code review: +
   - antipatterns: ~
   - paradigm: ~
   - algorithm: *
@@ -93,7 +93,7 @@
   - hardcode: *
   - complexity: ~
   - decomposition: ~
-  - spaghetti: ~
+  - spaghetti: *
   - silver bullet: ~
   - not invented here: ~
   - dead code: ~
@@ -101,6 +101,6 @@
   - duplicate code: *
   - exception: *
   - return early: ~
-  - unittest: ~
+  - unittest: +
   - git ~
   - github: *
