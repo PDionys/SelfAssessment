@@ -63,4 +63,4 @@
   - Mediator: ~
   - Memento: ~
   - Template Method: ~
-  - Visitor: 👂 heard
+  - Visitor: ~
